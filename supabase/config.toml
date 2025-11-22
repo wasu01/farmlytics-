@@ -1,0 +1,7 @@
+project_id = "aeaeclrtftsjtoaudwqr"
+
+[functions.diagnose-plant]
+verify_jwt = false
+
+[functions.saathi-ai]
+verify_jwt = false
